@@ -1,0 +1,21 @@
+            Archive Name: renHTML1.zip
+       Short Description: RenHTML - rename HTML files to their titles
+        Long Description: RenHTML - rename HTML files to their titles
+
+      Proposed directory
+           for placement: /os2/apps/internet/
+
+               Your name: Rossen Assenov 
+           Email address: rossen_assenov@hotmail.com 
+    Program contact name: (same)
+   Program contact email: (same)
+        Program homepage: (none)
+
+      Would you like the
+     contact information
+                included?  yes
+
+Operating System/Version: Warp
+ Additional requirements:  
+
+                Replaces: 

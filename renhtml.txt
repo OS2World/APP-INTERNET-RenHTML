@@ -1,0 +1,40 @@
+                             RenHTML V 1.0
+
+RenHTML is a little program for renaming HTML files to their titles.
+
+Files
+-----
+1. RenHTML.exe - the executable
+2. HHRR.CMD    - a small command file (you can rename it if you want)
+
+Instalation
+-----------
+Unzip the archive is some directory.
+Move the files to some directory in your PATH.
+
+Usage
+-----
+Change to a directory with HTML files and type HHRR.
+As a result ALL *.html *.htm files with titles in them will be renamed.
+
+Source Code
+-----------
+The source code is written using Borland C++ for OS/2. It uses the string class 
+of Borland's ( or INPRISE's :-) ) library. You can modify the source code
+as you wish and distribute it freely.
+Please, send me the changes you make to it.
+
+Getting in Touch
+----------------
+e-mail : rossen_assenov@hotmail.com
+
+If you don't like this program, discover any bugs or have any suggestions,
+please let me know why or what they are by e-mailing a message.
+
+Legal Stuff
+-----------
+RenHTML is (c) Copyright 1996-1997 by Rossen Assenov.
+
+RenHTML is distributed in the hope that it will be useful, but with
+ABSOLUTELY NO WARRANTY; without even the implied warranty of MERCHANTABILITY
+or FITNESS FOR A PARTICULAR PURPOSE.
